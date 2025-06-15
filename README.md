@@ -105,12 +105,22 @@ Deploy as a web app
 Expand to more emotion classes
 
 Use pre-trained language models like BERT for better accuracy
-## 📸 Screenshot of the App
-![Anger Screenshot](anger.png)
-![Joy](joy.png)
-![Fear](fear.png)
-![Love](love.png)
-![Surprise Word Cloud](surprise_wordCloud.png)
+## 📸 Screenshots
+
+### 😡 Anger
+![](anger.png)
+
+### 😄 Joy
+![](joy.png)
+
+### 😨 Fear
+![](fear.png)
+
+### ❤️ Love
+![](love.png)
+
+### 😲 Surprise Word Cloud
+![](surprise_wordCloud.png)
 
 👩‍💻 Author
 Jyothsna Hanumanthu
