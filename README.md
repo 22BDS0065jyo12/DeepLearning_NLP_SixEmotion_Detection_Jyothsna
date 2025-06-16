@@ -108,19 +108,10 @@ Use pre-trained language models like BERT for better accuracy
 ## 📸 Screenshots
 
 ### 😡 Anger
-![](anger.png)
+![](### 😡 Anger
+![Anger](https://raw.githubusercontent.com/22BDS0065jyo12/DeepLearning_NLP_SixEmotion_Detection_Jyothsna/main/anger.png)
 
-### 😄 Joy
-![](joy.png)
 
-### 😨 Fear
-![](fear.png)
-
-### ❤️ Love
-![](love.png)
-
-### 😲 Surprise Word Cloud
-![](surprise_wordCloud.png)
 
 👩‍💻 Author
 Jyothsna Hanumanthu
