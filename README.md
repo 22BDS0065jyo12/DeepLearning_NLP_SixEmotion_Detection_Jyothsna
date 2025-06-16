@@ -106,10 +106,9 @@ Expand to more emotion classes
 
 Use pre-trained language models like BERT for better accuracy
 ## 📸 Screenshots
+### 😄 Joy
+![Joy](https://github.com/22BDS0065jyo12/DeepLearning_NLP_SixEmotion_Detection_Jyothsna/blob/main/joy.png?raw=true)
 
-### 😡 Anger
-
-![Anger](https://github.com/22BDS0065jyo12/DeepLearning_NLP_SixEmotion_Detection_Jyothsna/blob/main/joy.png?raw=true)
 
 
 
