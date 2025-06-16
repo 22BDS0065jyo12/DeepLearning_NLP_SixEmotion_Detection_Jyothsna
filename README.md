@@ -2,17 +2,13 @@
 
 This project focuses on detecting and classifying six basic human emotions from text using Natural Language Processing (NLP) and Deep Learning techniques. It includes traditional machine learning models as well as an LSTM-based neural network for comparison.
 
----
-
 ## 📌 Emotions Detected
 - **0** – Anger  
-- **1** – Disgust  
+- **1** – Love  
 - **2** – Fear  
 - **3** – Joy  
 - **4** – Sadness  
 - **5** – Surprise  
-
----
 
 ## 📁 Dataset
 
@@ -34,8 +30,6 @@ I am so happy today! ; Joy
 - **Pandas / NumPy** – for data manipulation
 - **Pickle** – for saving models
 
----
-
 ## 🧪 Models Implemented
 
 ### 🔹 Traditional Machine Learning
@@ -47,8 +41,6 @@ I am so happy today! ; Joy
 ### 🔹 Deep Learning
 - **LSTM** (Long Short-Term Memory) network with Embedding layer
 
----
-
 ## 🧼 Data Preprocessing
 
 - Removal of non-alphabet characters
@@ -57,8 +49,6 @@ I am so happy today! ; Joy
 - Stopword removal using NLTK
 - TF-IDF vectorization
 - Padding for LSTM inputs
-
----
 
 ## 📊 Model Evaluation
 
@@ -74,7 +64,6 @@ Each classifier is evaluated using:
 | SVM                  | 81.6%    |
 | LSTM (Deep Learning) | 92.9%    |
 
----
 
 ## 🔮 Sample Predictions
 
@@ -92,33 +81,31 @@ The model predicts the emotion and label with high confidence using either the M
 📦 Saved Artifacts
 The following components are saved using pickle for future inference:
 
-logistic_regression.pkl
-label_encoder.pkl
-tfidf_vectorizer.pkl
+- logistic_regression.pkl
+- label_encoder.pkl
+- tfidf_vectorizer.pkl
 ---
 
 📌 Future Enhancements
-Add UI using Streamlit or Flask
+- Add UI using Streamlit or Flask
+- Deploy as a web app
+- Expand to more emotion classes
+- Use pre-trained language models like BERT for better accuracy
 
-Deploy as a web app
-
-Expand to more emotion classes
-
-Use pre-trained language models like BERT for better accuracy
-## 📸 Screenshots
-### 😡 Anger
+**📸 Screenshots**
+😡 Anger
 [!Anger](screenshots_Emotion_Jyothsna/anger.png)
 
-### 😄 Joy
+😄 Joy
 ![Joy](screenshots_Emotion_Jyothsna/joy.png)
 
-### 😨 Fear
+😨 Fear
 ![Fear](screenshots_Emotion_Jyothsna/fear.png)
 
-### ❤️ Love
+❤️ Love
 ![Love](screenshots_Emotion_Jyothsna/love.png)
 
-### 😲 Surprise Word Cloud
+😲 Surprise Word Cloud
 ![Surprise](screenshots_Emotion_Jyothsna/surprise_wordCloud.png)
 
 👩‍💻 Author
