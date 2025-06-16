@@ -109,7 +109,7 @@ Use pre-trained language models like BERT for better accuracy
 
 ### 😡 Anger
 
-![Anger](https://raw.githubusercontent.com/22BDS0065jyo12/DeepLearning_NLP_SixEmotion_Detection_Jyothsna/main/anger.png)
+![Anger](./anger.png)
 
 
 
